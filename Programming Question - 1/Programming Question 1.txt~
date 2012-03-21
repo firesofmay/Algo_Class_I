@@ -1,0 +1,10 @@
+Programming Question-1
+Question 1
+Download the text file here. (Right click and save link as)
+
+The file contains all the 100,000 integers between 1 and 100,000 (including both) in some random order( no integer is repeated).
+
+Your task is to find the number of inversions in the file given (every row has a single integer between 1 and 100,000). Assume your array is from 1 to 100,000 and ith row of the file gives you the ith entry of the array.
+Write a program and run over the file given. The numeric answer should be written in the space.
+So if your answer is 1198233847, then just type 1198233847 in the space provided without any space / commas / any other punctuation marks. You can make upto 5 attempts, and we'll count the best one for grading.
+(We do not require you to submit your code, so feel free to choose the programming language of your choice, just type the numeric answer in the following space)
